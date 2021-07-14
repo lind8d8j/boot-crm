@@ -1,5 +1,9 @@
 # boot-crm
 客户管理系统
+
+# 在IDEA 中的启动方法
+https://blog.csdn.net/wh445306/article/details/109340863
+
 # 页面如下
 
 登录页
